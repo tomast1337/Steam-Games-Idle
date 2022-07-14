@@ -6,12 +6,13 @@
   "bugs": {
     "url": "https://github.com/Refloow/Steam-Games-Idle/issues"
   },
-  "homepage": "https://github.com/Refloow/Steam-Games-Idle/blob/master/README.md",
+  "homepage": "https://github.com/Refloow/Steam-Games-Idle",
   "dependencies": {
     "console-master": "^1.0.3",
     "moment": "2.28.0",
     "request": "2.88.0",
     "request-promise": "4.2.6",
+    "sgi-diagnostics": "^1.0.2",
     "steam-totp": "2.1.1",
     "steam-user": "4.18.0",
     "steamcommunity": "3.41.6",
@@ -25,6 +26,7 @@
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Games-Idle.git"
   },
-  "author": "Refloow (MajokingGames)",
-  "license": "MIT"
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2020-2022"
 }
